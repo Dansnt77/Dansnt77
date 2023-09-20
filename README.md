@@ -2,6 +2,8 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dansnt_77/) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-santos-8b1659251/)
+[![Portifólio](https://img.shields.io/website?label=Potifolio.com&style=for-the-badge&url=https://https://my-portifolio-a9u6522vu-dansnt77.vercel.app/)](https://my-portifolio-a9u6522vu-dansnt77.vercel.app/)
+
 
 ![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=Dansnt77&show_icons=true&theme=synthwave)
 
